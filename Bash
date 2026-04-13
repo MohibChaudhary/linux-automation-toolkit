@@ -1,0 +1,27 @@
+# Linux Automation Toolkit
+
+This repository contains practical Bash scripts designed to automate real-world Linux system tasks.
+
+## Features
+- Automated backups
+- System monitoring
+- File cleanup
+- Basic deployment automation
+
+## Tech Stack
+- Linux (Ubuntu)
+- Bash scripting
+
+## How to Use
+1. Clone the repo
+2. Navigate to scripts folder
+3. Make scripts executable:
+   chmod +x *.sh
+4. Run scripts:
+   ./backup.sh
+
+## Why this project?
+This project demonstrates hands-on experience with Linux automation, cron jobs, and system-level scripting.
+
+## Author
+Mohib (MHB)
